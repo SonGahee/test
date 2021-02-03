@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("22222222222222222");
 		System.out.println("Hello Html");
 		System.out.println("Hello JQuery");
+		System.out.println("Hello javascript");
 	}
 
 }
