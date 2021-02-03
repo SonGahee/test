@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Hello Html");
 		System.out.println("Hello JQuery");
 		System.out.println("Hello javascript");
+		System.out.println("Hello java!!!);
 	}
 
 }
